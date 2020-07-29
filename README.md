@@ -1,4 +1,4 @@
-### "𝑮𝒆𝒏𝒕𝒍𝒆𝒎𝒆𝒏?" - 𝑺𝒑𝒚
+<p style="font-size: 40px; font-style: italic;">"状況をつくるのが戦略で、状況を利用するのが戦術だよ。"</p>
 
 <!--
 **Kurogoma4D/Kurogoma4D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
