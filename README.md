@@ -1,5 +1,7 @@
 <strong style="font-size: 40px; font-style: italic;">"状況をつくるのが戦略で、状況を利用するのが戦術だよ。"</strong>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kurogoma4D)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Kurogoma4D/Kurogoma4D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
