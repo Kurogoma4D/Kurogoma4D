@@ -1,4 +1,4 @@
-<strong style="font-size: 40px; font-style: italic;">"状況をつくるのが戦略で、状況を利用するのが戦術だよ。"</strong>
+[![signboard](https://headless-electric-signboard.vercel.app/?text=Welcome%20to%20Kurogoma4D's%20page)](https://github.com/Kurogoma4D/headless_electric_signboard)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kurogoma4D)](https://github.com/ryo-ma/github-profile-trophy)
 
